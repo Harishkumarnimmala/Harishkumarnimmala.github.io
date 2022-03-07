@@ -1,0 +1,35 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "nimmala.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Beacon.png",
+      "sizes": "64x64 32x32 24x24 16x16 48x48 560x445",
+      "type": "image/png"
+    },
+    {
+      "src": "demo1.jpg",
+      "sizes": "64x64 32x32 24x24 16x16 560x445 1400x800",
+      "type": "image/jpg"
+    },
+    {
+      "src": "demo2.jpg",
+      "sizes": "64x64 32x32 24x24 16x16 560x445 1400x800",
+      "type": "image/jpg"
+    },
+    {
+      "src": "demo3.jpg",
+      "sizes": "64x64 32x32 24x24 16x16 560x445 1400x800",
+      "type": "image/jpg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
