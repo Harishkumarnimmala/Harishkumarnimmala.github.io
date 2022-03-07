@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+/* BeaconListener Component */
+
+.column {
+  float: center;
+  width: 33.33%;
+  padding: 0.1rem;
+}
+
+.row {
+  display: flex;
+  padding: 0rem;
+}
+
+.Title {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 0em;
+  margin-bottom: 1em;
+  background-color: rgb(rgb(245, 100, 15));
+  color: rgb(251, 253, 249);
+}
+
+.Intro1 {
+  font-size: 18px;
+}
+.Intro2 {
+  font-size: 22px;
+}
+.Intro3 {
+  font-size: 18px;
+  color: #9494b8;
+}
+.portfolioH {
+  font-size: 22px;
+  color: #000000;
+  padding-left: 220px;
+}
+
+.aboutme {
+  padding: 20px;
+  padding-top: 0px;
+  text-align: justify;
+}
+
+.skillsHeading {
+  padding: 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  text-align: left;
+}
+
+
